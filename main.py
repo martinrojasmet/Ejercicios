@@ -1,4 +1,5 @@
-tu_nombre_aqui = "Martin"
-tu_edad_aqui = "20"
-tu_carrera_aqui = "Ingenieria de sistemas"
-print (f"Hola mundo! mi nombre es {tu_nombre_aqui} y tengo {tu_edad_aqui} años, estudio {tu_carrera_aqui} en la UNIMET!")
+name = "Tu nombre aqui (con las comillas)"
+age = "Tu edad aqui (sin las comillas)"
+career = "Tu carrera aqui (con las comillas)"
+print(f"Hola Mundo! mi nombre es {name} y tengo {age}
+años, estudio {career} en la UNIMET!")
